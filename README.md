@@ -1,4 +1,4 @@
-# Elastic-Collision
+# Elastic Collision
 An elastic collision is a type of collision in which both momentum and kinetic energy are conserved. This means that:
 - Momentum Conservation: The total momentum of the system before the collision is equal to the total momentum after the collision.
 - Kinetic Energy Conservation: The total kinetic energy of the system before the collision is equal to the total kinetic energy after the collision.
