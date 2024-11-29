@@ -7,12 +7,12 @@ Key Characteristics:
 1. No Energy Loss: Unlike inelastic collisions, no kinetic energy is transformed into other forms of energy (like heat or sound).
 2. Ideal Conditions: Elastic collisions are often idealized scenarios, typically observed in atomic or subatomic particles, as well as in perfectly hard spheres.
 3. Mathematical Representation:
-   m1u1 + m2u2 = m1v1 + m2v2 (momentum)
-   0.5 * m1u1^2 + 0.5 * m2u2^2 = 0.5 * m1v1^2 + 0.5 * m2v2^2 (kinetic energy)
+- m1u1 + m2u2 = m1v1 + m2v2 (momentum)
+- 0.5 * m1u1^2 + 0.5 * m2u2^2 = 0.5 * m1v1^2 + 0.5 * m2v2^2 (kinetic energy)
 
-Applications:
+**Applications:**
 Physics Experiments: Used in experiments to study particle interactions.
 Sports: Collisions in sports balls (like billiards) can be approximated as elastic.
-Summary
+##Summary
 Elastic collisions are fundamental concepts in physics, illustrating the conservation laws that govern motion and energy in isolated systems.
    
