@@ -13,6 +13,3 @@ Key Characteristics:
 **Applications:**
 Physics Experiments: Used in experiments to study particle interactions.
 Sports: Collisions in sports balls (like billiards) can be approximated as elastic.
-## Summary
-Elastic collisions are fundamental concepts in physics, illustrating the conservation laws that govern motion and energy in isolated systems.
-   
